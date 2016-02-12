@@ -1,5 +1,7 @@
 .card {
-  height: 175px;
+  height: 200px;
+  width:350px;
+  margin-bottom: 20px;
   text-shadow: 0 1px 3px rgba(0,0,0,0.6);
   background-size: cover !important;
   color: white;
@@ -40,4 +42,13 @@
 .card-link:hover{
   opacity: 0.1;
 }
+.card-cocktail {
+  height: 300px;
+  width:500px;
+  margin-bottom: 20px;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  background-size: cover !important;
+  color: white;
 
+
+}
